@@ -1,4 +1,4 @@
-🧠 Stage 1: Foundations of Machine Learning and Deep Learning
+🧠 Stage 1: Foundations of Machine Learning and Deep Learning (1-2 months)
 Topics:
 Mathematics:
 Linear Algebra: Vectors, matrices, eigenvalues/eigenvectors.
@@ -95,3 +95,4 @@ Collaborate: Join AI communities and forums.
 Build Projects: Showcase your skills on GitHub or Kaggle.
 Happy Learning! 🌟
 Feel free to contribute or share feedback to improve this study plan. 😊
+
