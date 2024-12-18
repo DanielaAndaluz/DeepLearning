@@ -23,7 +23,7 @@
 - **Books**:  
   - 📚 *Deep Learning with Python* by François Chollet.
 
-## 🖼️ Stage 3: Convolutional Neural Networks (CNNs) (1-2 months)
+## 🖼️ Stage 3: Convolutional Neural Networks (CNNs)
 
 ### Topics:
 - Convolution and Pooling Operations.
