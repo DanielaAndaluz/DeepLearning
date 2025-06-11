@@ -1,4 +1,12 @@
-## 🧠 Stage 1: Foundations of Machine Learning and Deep Learning
+## 🚀 Introduction
+
+Welcome to this **Deep Learning Foundations** roadmap! This repository is organized into progressive stages designed to help you build strong knowledge and practical skills in deep learning.
+
+Each stage covers essential topics — from the basics of neural networks 🧠 and training techniques 🏗️, through data handling and evaluation 🧪, to powerful architectures like CNNs 🖼️ and modern sequence models for NLP ✍️.
+Whether you're just starting or aiming to sharpen your skills, this guide will support your journey into the exciting world of deep learning! ⚡
+
+
+## 🧠 Stage 1: Foundations of Deep Learning
 
 
 ### Topics
