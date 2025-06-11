@@ -1,6 +1,7 @@
 ## 🧠 Stage 1: Foundations of Machine Learning and Deep Learning
 
-### Topics:
+
+### Topics
 - **Deep Learning Introduction**:
   - Neural Networks: Perceptrons, Activation Functions.
   - Forward and Backward Propagation.
@@ -11,20 +12,50 @@
   - 📚 *Deep Learning* by Ian Goodfellow.  
   - 📚 *Mathematics for Machine Learning* by Deisenroth et al.
 
-## 🏗️ Stage 2: Neural Networks and Basic Architectures
+## 🏗️ Stage 2: Training Foundations and Regularization
 
 ### Topics:
-- Deep Neural Networks (MLPs).
-- Optimization: Adam, RMSProp, Learning Rate Schedules.
-- Regularization: Dropout, Batch Normalization.
-- Frameworks: Introduction to TensorFlow and PyTorch.
+- **Loss Functions**:
+  - Cross-Entropy Loss (for classification) 🔢
+  - Mean Squared Error (for regression) 📉
+- **Regularization**:
+  - L1 and L2 ,Dropout, Batch Normalization
+- **Weight Initialization**:
+  - Xavier/Glorot Initialization
+  - He Initialization 🧠
+- **Overfitting vs. Underfitting**:
+  - Bias-Variance Tradeoff ⚖️
+  - Techniques: Early Stopping, Model Complexity Control
+  - 
+### Suggested Resources:
+- **Books**:  
+  - 📚 *Deep Learning* by Ian Goodfellow – Chapters on Regularization and Optimization.  
+  - 📚 *Neural Networks and Deep Learning* by Michael Nielsen – Available free online.
+
+
+## 🧪 Stage 3: Training Dynamics and Data Handling
+
+### Topics:
+- **Training Techniques**:
+  - Epochs, Batch Size, Mini-Batch Gradient Descent ⚙️
+  - Learning Rate Scheduling: Step, Exponential, Cosine Annealing ⏱️
+- **Evaluation Metrics**:
+  - Accuracy, Precision, Recall, F1 Score 🧮
+  - Confusion Matrix 📊
+- **Data Preparation**:
+  - Normalization and Standardization of features 📏
+  - One-hot Encoding for categorical targets 🧾
+  - Data Augmentation 🖼️
+- **Computational Graphs and Autograd**:
+  - Dynamic computation graphs (PyTorch)
+  - Static graphs (TensorFlow) 🧠
 
 ### Suggested Resources:
 - **Books**:  
-  - 📚 *Deep Learning with Python* by François Chollet.
+  - 📚 *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* by Aurélien Géron – Excellent for data preprocessing and training dynamics.  
+  - 📚 *Deep Learning with PyTorch* by Eli Stevens et al.
 
-## 🖼️ Stage 3: Convolutional Neural Networks (CNNs)
-
+## 🖼️ Stage 4: Convolutional Neural Networks (CNNs)
 ### Topics:
 - Convolution and Pooling Operations.
 - Classic Architectures: LeNet, AlexNet, VGG, ResNet, Inception.
@@ -36,40 +67,17 @@
   - 📚 *Deep Learning for Vision Systems* by Mohamed Elgendy.
 - **Projects**:  
 
-## ✍️ Stage 4: Sequence Models and Natural Language Processing (NLP)
+## ✍️ Stage 5: Sequence Models and Natural Language Processing (NLP)
 
 ### Topics:
-- Recurrent Neural Networks (RNNs), LSTMs, GRUs.
-- Attention Mechanisms (Bahdanau, Luong).
+- Recurrent Neural Networks (RNNs)
+- Encoder-decoder architectures
+- LSTMs, Seq2Seq
+- Attention Mechanisms and Multi-Head Attention.
 - Transformers: Architecture, BERT, GPT.
-- Applications: Sentiment Analysis, Translation, Summarization.
 
 ### Suggested Resources:
 - **Books**:  
   - 📚 *Natural Language Processing with Transformers* by Tunstall et al.
 
-## 🎨 Stage 5: Generative Models
 
-### Topics:
-- Autoencoders and Variational Autoencoders (VAEs).
-- Generative Adversarial Networks (GANs): DCGAN, Conditional GANs.
-- Diffusion Models: Denoising Diffusion Probabilistic Models (DDPMs).
-
-### Suggested Resources:
-- **Research Papers**:  
-  - 📰 *Auto-Encoding Variational Bayes* (Kingma and Welling).  
-  - 📰 *GANs* (Goodfellow et al.).
-
-## 🔬 Stage 6: Advanced Topics and Cutting-Edge Research
-
-### Topics:
-- Reinforcement Learning (RL): Policy Gradients, Deep Q-Learning.
-- Graph Neural Networks (GNNs): Applications in social networks, molecules.
-- Vision Transformers (ViT), Neural ODEs, and Equivariant Networks.
-- Large Language Models (LLMs): GPT-4, LLaMA.
-- Multimodal Models: CLIP, DALL-E.
-
-### Suggested Resources:
-- **Research Papers**:  
-  - 📰 *Attention is All You Need* (Transformers).  
-  - 📰 *Masked Autoencoders Are Scalable Vision Learners* (MAE).  
